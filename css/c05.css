@@ -17,9 +17,9 @@ h1 {
 	background-position: center center;
 	text-align: center;
 	text-indent: -1000%;
-	height: 75px;
+	height: 143px;
 	line-height: 75px;
-	width: 117px;
+	width: 227px;
 	margin: 0 auto 0 auto;
 	padding: 30px 10px 20px 10px;}
 
@@ -139,6 +139,6 @@ p {
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
     h1{
         background-image: url(../images/goat_queso.png);
-        background-size: 72px 72px;
+        background-size: 50px 50px;
     }
 }
